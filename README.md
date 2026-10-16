@@ -1,6 +1,4 @@
 # Asistensi P4
-nama: Stefan Desmonda
-nrp: 5022261060
 
 Program ini memiliki struct Barang beranggota char nama[50], int harga, int stock dan struct Member beranggota char nama[50], int poin serta fungsi-fungsi yang berinteraksi dengan struct tersebut. 
 
